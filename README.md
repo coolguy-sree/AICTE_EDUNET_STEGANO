@@ -1,4 +1,4 @@
-<h1 align="center"> 📷 SECURE DATA HIDING IN IMAGES USING STEGANOGRAPHY 📷 </h1>
+<h1 align="center">  SECURE DATA HIDING IN IMAGES USING STEGANOGRAPHY  </h1>
 
 ![image](https://www.wattlecorp.com/wp-content/uploads/2020/10/Top-3-Steganography-Tools.jpg)
 
