@@ -1,6 +1,6 @@
 <h1 align="center"> 📷 SECURE DATA HIDING IN IMAGES USING STEGANOGRAPHY 📷 </h1>
 
-![image](https://github.com/user-attachments/assets/0cf47d73-05cb-4395-bdc8-651e96b7d403)
+![image](https://www.wattlecorp.com/wp-content/uploads/2020/10/Top-3-Steganography-Tools.jpg)
 
 ## 📝 Description
 The Image-Based Steganography Tool is a Python-powered application that enables users to securely hide messages within images using AES encryption and LSB (Least Significant Bit) steganography. The tool provides both encoding and decoding functionality through an intuitive Streamlit-based UI.
